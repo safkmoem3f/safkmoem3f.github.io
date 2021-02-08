@@ -11,7 +11,7 @@ body, html {
 }
 
 .hero-image {
-  background-image: url(photo_1.jfif);
+  background-image: url("photo_1.jfif");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
